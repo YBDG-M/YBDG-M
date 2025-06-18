@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! Welcome to my Portfolio page. As a 🤓 data scientist, 📊 data analyst, and 📈 project manager, I'm all about turning complex data into actionable insights and delivering successful projects.<br><br>- 🔭 I’m currently exploring machine learning and deep learning implementation of business<br>- 🪂 My area of expertises are: data analytics, machine learning, deep learning, and AI technologies<br><br>So take a look around, check out my projects, and feel free to reach out if you want to chat about data or just share your favorite burger place 🍔🤤. Let's get to work!
+👋 Hey there! Welcome to my Portfolio page. As a 🤓 data scientist, 📊 data analyst, and 📈 Business Analyst, I'm all about turning complex data into actionable insights and delivering successful projects.<br><br>- 🔭 I’m currently exploring machine learning and deep learning implementation of business<br>- 🪂 My area of expertises are: data analytics, machine learning, deep learning, and AI technologies<br><br>So take a look around, check out my projects, and feel free to reach out if you want to chat about data or just share your favorite burger place 🍔🤤. Let's get to work!
 
 
 ## 🌐 Socials:
