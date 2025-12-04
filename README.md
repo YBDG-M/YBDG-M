@@ -40,9 +40,4 @@ Please take a look at my projects to see how I drive tangible results. Feel free
   <a><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
 </p>
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YBDG-M&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
