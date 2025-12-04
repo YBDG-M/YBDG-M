@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hey there! Welcome to my Portfolio page. As a data scientist, data analyst, and Business Intelligence, I'm all about turning complex data into actionable insights and delivering successful projects.<br><br>- 🔭 I’m currently exploring machine learning and deep learning implementation of business<br>- 🪂 My area of expertises are: data analytics, machine learning, deep learning, and AI technologies<br><br>So take a look around, check out my projects, and feel free to reach out if you want to chat about data or just share your favorite burger place 🍔🤤. Let's get to work!
+Hey there! I'm a Junior Data Strategy Consultant.
+
+My focus is on transforming complex data into solid business strategies that deliver measurable value. My expertise spans Advanced Analytics (ML/DL/AI), Business Intelligence (BI), and Talent Optimization through HR Analytics and recruiting insights.
+
+Please take a look at my projects to see how I drive tangible results. Feel free to connect—or share your favorite burger recommendation!
 
 
 ## 🌐 Socials:
