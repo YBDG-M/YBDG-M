@@ -1,9 +1,13 @@
 # 💫 About Me:
-Hey there! I'm a Junior Data Strategy Consultant.
+I am a People & Business Operations Analyst dedicated to bridging the gap between data and human potential.
 
-My focus is on transforming complex data into solid business strategies that deliver measurable value. My expertise spans Advanced Analytics (ML/DL/AI), Business Intelligence (BI), and Talent Optimization through HR Analytics and recruiting insights.
+Leveraging Data Science (SQL, Python, and Excel), I empower organizations to make strategic decisions across Marketing and HR. My focus is on transforming raw numbers into actionable solutions—from driving operational efficiency and targeted recruitment to accelerating business growth.
 
-Please take a look at my projects to see how I drive tangible results. Feel free to connect—or share your favorite burger recommendation!
+Core Expertise:
+
+- Data: SQL, Python, Advanced Excel.
+- Business: Marketing Analytics & Growth Strategy.
+- People: Talent Management & Recruitment.
 
 
 ## 🌐 Socials:
