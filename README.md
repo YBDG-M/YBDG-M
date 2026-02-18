@@ -5,7 +5,7 @@ Leveraging Data Science (SQL, Python, and Excel), I empower organizations to mak
 
 Core Expertise:
 
-- Data: SQL, Python, Advanced Excel.
+- Data: SQL, Python, Excel.
 - Business: Marketing Analytics & Growth Strategy.
 - People: Talent Management & Recruitment.
 
